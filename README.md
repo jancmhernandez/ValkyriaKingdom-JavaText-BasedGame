@@ -1,4 +1,5 @@
 VALKYRIA KINGDOM
+
 Developed by: Hernandez, Jan Cedric
 
 1.	Project Description
@@ -12,37 +13,10 @@ Queen Erystrazsa commanded every mage in the kingdom to specialize with a single
 
 The character name “Queen Erystrazsa" is often mentioned throughout the story. As the story revolves around how Queen Erystrazsa wants to prepare her kingdom’s mages, she is greatly involved in the sparring battle between the user and the bot.
 
-Queen Erystrazsa, the ruler of the Valkyria Kingdom.
-Standing 5' 1" tall, this caramel-skinned woman has an aloof feel about her. A particularly notable feature is her dirty nails.
-She has an angular face, a straight nose, very thin lips, and her light blue eyes are deep-set.
-Her light brown hair, bleached white, is short, straight, and is cropped.
-She wears natural-colored blush, glittery eyeshadow, metallic lipstick, an excessive foundation for highlights, and black eyeliner.
-She has piercings in four places: her left eyebrow, her chin, her lower lip, and both upper ears.
-She has short arms, a thick torso, wide hips, and toned legs.
-She usually wears scruffy, formal clothes that are mostly white and form-fitting, and she wears no jewelry. She is usually seen wearing a distinctive cap.
-
 Depending on the user's discretion of difficulty, the opponent will be one of the three (3) arcane mages of different elements. 
-
 	Agni, the fire-based elemental mage. 
-Standing 6' 2" tall, this tan-skinned man has a suspicious feel about him, and he has a faint wart on his torso which causes offense if he is asked about it.
-He has a square face, a big nose, thin lips, and his dark brown eyes are deep-set.
-He is naturally bald, and he has a handlebar mustache.
-He has pierced his left nostril.
-He has muscular arms, a narrow torso, broad hips, and muscular legs.
-His whole body is a canvas for numerous skeletal, traditional, stylish, and signature tattoos.
 	Varuna, the water-based elemental mage.
-Standing 5' 8" tall, this red-skinned man has an overly sensitive feel about him.
-He has a triangular face, a bulbous nose, angled lips, and his light brown eyes are puffy.
-His black hair, dyed with henna, is short, straight, and worn as a short bob.
-He wears pinkish lipstick and an obvious foundation.
-He has short arms and firm hands, a muscular torso, bony hips, strong legs, and average-sized feet.
-He usually wears ripped, stylish clothes that are mostly black, and he wears no jewelry.
 	Gandharva, the nature-based elemental mage.
-Standing 5' 4" tall, this fair-skinned man has a harsh feel about him, and he has a distinctive scar on his left hand which he is proud of.
-He has a lean face with a rounded jaw, a small nose, small ears, and thin lips. His grey eyes are angular, and he has tapered eyebrows.
-He has knee-length, wavy, light brown hair which is worn in a quiff, and he has a goatee.
-He has a long neck, wide shoulders, strong arms and small hands, a lean torso with no muscle tone, a straight waist, angular hips, muscular legs, and small feet.
-He usually wears fabulous clothes that are mostly dark-colored and revealing, and he wears no jewelry. He is usually seen wearing a personalized pair of gloves.
 
 The game was designed with the elemental advantage system wherein fire-based spells have an advantage on nature mages, water-based spells on fire mages, and nature-based spells on water mages. If the user chose the easy difficulty, the opponent will be the element without elemental advantage against the chose element of the user. Choosing the difficult version, the user will face the opponent who has an elemental advantage on their character.
 
